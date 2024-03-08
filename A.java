@@ -1,4 +1,4 @@
-enum Name{
+enum Name {
     Upek,
     Senuri,
     Ayanaji,
@@ -6,8 +6,8 @@ enum Name{
     Oshan
 }
 
-class A{
-    public static void main(String[] args){
+class A {
+    public static void main(String[] args) {
         Name name = Name.Upek;
         System.out.println(name);
         Name name2 = Name.Senuri;

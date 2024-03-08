@@ -1,5 +1,5 @@
 # Enum
- - Special Data Types that enables for a variable to be a set of predefined constants.
+ - Special Data Types that enable a variable to be a set of predefined constants.
 
 
 At the early stages of the programming languages, it is common to use a set of constants to represent a set of predefined values. 
@@ -31,7 +31,7 @@ By the time, the `enum` keyword was introduced in Java 5.0 (also known as Java 1
 And it was a significant improvement over the traditional way of representing a set of predefined values using a set of constants.
 
 The `enum` keyword is used to define an `enumeration` which is a user-defined data type that consists of integral constants.
-To define an enumeration, the enum keyword is followed by the enumeration name (which is optional) and a set of curly braces that contain the enumeration constants. 
+To define an enumeration, the enum keyword is followed by the enumeration name (optional) and a set of curly braces that contain the enumeration constants. 
 
 For example,
 
